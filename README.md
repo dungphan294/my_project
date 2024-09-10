@@ -1,3 +1,3 @@
-Hello world
-Hello world
-Hello world
+Hello world, git!
+
+Added another line!
